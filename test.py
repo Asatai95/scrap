@@ -1,19 +1,17 @@
-from bottle import redirect, response, request, template, route, run, default_app
 
-import os
 
-@route("/static/:path#.+#", name='static')
-def test(path):
-    return static_file(path, root='static')
+import csv
 
-@route('/')
 def test():
 
-    test = 'テストです！！'
+    header = ['ID', 'name'],
 
-    return template('templates/test', test=test)
-
-if __name__ == '__main__':
-    run(host="0.0.0.0", port=int(os.environ.get("PORT", 8080)), debug=True)
-else:
-    application = default_app()
+    body = [
+    [0, 'Alex'],
+    [1, 'John'],
+    [2, 'Bob']
+    ]
+    with open('sample_test.csv', 'w') as f:
+        writer = csv.writer(f)  # writerオブジェクトを作成
+        writer.writerow(header) # ヘッダーを書き込む
+        writer.writerows(body)  # 内容を書き込む

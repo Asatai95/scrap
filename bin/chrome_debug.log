@@ -1,0 +1,102 @@
+[1020/034604.079966:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[1020/034604.116897:WARNING:resource_bundle.cc(368)] locale_file_path.empty() for locale 
+[1020/034604.153941:ERROR:gl_implementation.cc(292)] Failed to load /vagrant/python/bin/libosmesa.so: /vagrant/python/bin/libosmesa.so: cannot open shared object file: No such file or directory
+[1020/034604.266502:ERROR:instance.cc(49)] Unable to locate service manifest for metrics
+[1020/034604.266649:ERROR:service_manager.cc(890)] Failed to resolve service name: metrics
+[1020/034604.268056:ERROR:gpu_command_buffer_stub.cc(611)] ContextResult::kFatalFailure: Failed to create default offscreen surface.
+[1020/034604.268437:ERROR:gpu_process_transport_factory.cc(1009)] Lost UI shared context.
+[1020/034604.273753:WARNING:histograms.cc(40)] Started multiple compositor clients (Browser, Renderer) in one process. Some metrics will be disabled.
+[1020/034604.746222:INFO:CONSOLE(9)] "Error parsing a meta element's content: ';' is not a valid key-value pair separator. Please use ',' instead.", source: https://www.dee-okinawa.com/koneta/2018/10/okinawanname2.html (9)
+[1020/034605.116331:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.116742:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.116880:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.117293:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.117554:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.117712:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.117973:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118047:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118118:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118195:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118276:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118357:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118450:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118523:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118593:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118668:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118748:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.118828:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.120384:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.120486:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.120585:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.120673:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.120868:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.120958:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121083:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121178:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121257:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121346:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121551:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121677:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121764:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121859:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.121943:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122025:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122196:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122290:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122361:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122440:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122525:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122606:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122688:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122775:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122856:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.122943:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123015:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123086:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123161:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123243:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123323:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123406:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123488:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034605.123570:WARNING:resource_bundle.cc(586)] locale resources are not loaded
+[1020/034606.614967:WARNING:render_frame_host_impl.cc(2728)] OnDidStopLoading was called twice.
+[1020/034607.473866:FATAL:HeapPage.cpp(661)] Check failed: result. 
+#0 0x00000353ffbc <unknown>
+#1 0x00000355599c <unknown>
+#2 0x000002f04966 <unknown>
+#3 0x000002f05922 <unknown>
+#4 0x000002f19420 <unknown>
+#5 0x00000486e9ac <unknown>
+#6 0x00000487b98a <unknown>
+#7 0x000004880a20 <unknown>
+#8 0x00000487cdc7 <unknown>
+#9 0x00000487d2eb <unknown>
+#10 0x0000048880f3 <unknown>
+#11 0x000004e9426a <unknown>
+#12 0x0000051b51c7 <unknown>
+#13 0x000002f2d569 <unknown>
+#14 0x000002f3996d <unknown>
+#15 0x00000554da41 <unknown>
+#16 0x000005551285 <unknown>
+#17 0x000002585970 <unknown>
+#18 0x0000023b3129 <unknown>
+#19 0x000003e43d87 <unknown>
+#20 0x000003e435bb <unknown>
+#21 0x000003e3c062 <unknown>
+#22 0x000003e3c791 <unknown>
+#23 0x000003e4d3ea <unknown>
+#24 0x00000354132f <unknown>
+#25 0x000002f58439 <unknown>
+#26 0x000002f57b87 <unknown>
+#27 0x00000354132f <unknown>
+#28 0x000002f5aa99 <unknown>
+#29 0x00000354132f <unknown>
+#30 0x000003558997 <unknown>
+#31 0x000003558eb8 <unknown>
+#32 0x00000355b00a <unknown>
+#33 0x000003574134 <unknown>
+#34 0x00000359bafd <unknown>
+#35 0x000003596a9d <unknown>
+#36 0x7f1f039706ba start_thread
+#37 0x7f1f0239f41d clone
+
