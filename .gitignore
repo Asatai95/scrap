@@ -1,2 +1,6 @@
 env_python/
 README.md
+HelloScrapy/
+items.py
+test_spider.py
+test.py
